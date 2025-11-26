@@ -1,0 +1,15 @@
+title: "Mon Portfolio"
+description: "Portfolio, CV et projets"
+theme: minima
+author:
+  name: "Ton Nom"
+  email: "ton.email@example.com"
+minima:
+  skin: classic
+  social_links:
+    github: ton-username
+    linkedin: ton-linkedin
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
