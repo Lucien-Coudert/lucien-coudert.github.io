@@ -1,32 +1,15 @@
 ---
 title: "Accueil"
 ---
+<link rel="stylesheet" href="/assets/dark.css">
 
-<div style="text-align: center; margin: 50px 0;">
-	<h1>Lucien Coudert</h1>
-	<h3 style="font-weight: normal;"> Étudiant Ingénieur</h3>
-	<p> Étudiant en quatrième à Polytech Sorbonne en matthématiques appliqués à l'informatique</p>
-	<a href="CV.pdf" style="
-      display: inline-block;
-      padding: 10px 20px;
-      margin: 10px;
-      background-color: #0366d6;
-      color: white;
-      text-decoration: none;
-      border-radius: 6px;
-      font-weight: bold;">Télécharger mon CV</a>
-  	<a href="lucien.coudert.pro@sfr.fr" style="
-      display: inline-block;
-      padding: 10px 20px;
-      margin: 10px;
-      background-color: #28a745;
-      color: white;
-      text-decoration: none;
-      border-radius: 6px;
-      font-weight: bold;">Me contacter</a>
+<div class="hero">
+    <h1>Lucien Coudert</h1>
+    <h3>Étudiant Ingénieur</h3>
+    <p>Étudiant en quatrième année à Polytech Sorbonne en mathématiques appliquées à l'informatique.</p>
+	<a href="CV.pdf" class="btn">Télécharger mon CV</a>
+    <a href="mailto:adresse@example.com" class="btn">Me contacter</a>
 </div>
-
-
 
 
 
