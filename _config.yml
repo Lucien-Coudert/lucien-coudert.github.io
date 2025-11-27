@@ -1,5 +1,5 @@
 baseurl: ""
-title: "Votre Nom"
+title: "Lucien Coudert"
 description: "Portfolio professionnel"
 markdown: kramdown
-theme: minima
+# theme: minima
