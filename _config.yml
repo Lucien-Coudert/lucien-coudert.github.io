@@ -2,4 +2,4 @@ baseurl: ""
 title: "Lucien Coudert"
 description: "Portfolio professionnel"
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
