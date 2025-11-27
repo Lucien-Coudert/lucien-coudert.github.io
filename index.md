@@ -1,15 +1,33 @@
 ---
 title: "Accueil"
 ---
-<link rel="stylesheet" href="/assets/custom.css">
 
-<div align="center">
-	# **Lucien Coudert**
-	### *Etudiant Ingénieur en mathématiques appliquées à l'informatique*
-	<br>
-	[Télécharger mon CV](CV.pdf){: .btn}
-	[Me contacter](lucien.coudert.pro@sfr.fr){: .btn}
+<div style="text-align: center; margin: 50px 0;">
+	<h1>Lucien Coudert</h1>
+	<h3 style="font-weight: normal;"> Étudiant Ingénieur</h3>
+	<p> Étudiant en quatrième à Polytech Sorbonne en matthématiques appliqués à l'informatique</p>
+	<a href="CV.pdf" style="
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px;
+      background-color: #0366d6;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;">Télécharger mon CV</a>
+  	<a href="lucien.coudert.pro@sfr.fr" style="
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;">Me contacter</a>
 </div>
+
+
+
 
 
 # Bienvenue sur mon portfolio
