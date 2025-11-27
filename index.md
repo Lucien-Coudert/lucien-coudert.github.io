@@ -1,9 +1,21 @@
 ---
-layout: home
+layout: default
 title: "Accueil"
 ---
 
-# 👋 Bonjour, je suis {{ site.author.name }}
 
-Bienvenue sur mon portfolio !  
-Quelques lignes pour me présenter...
+# Bienvenue sur mon portfolio
+
+
+## À propos
+Brève description...
+
+
+## Compétences
+- HTML, CSS, JS
+- Python
+
+
+## Projets
+- [Projet 1](projet1)
+- [Projet 2](projet2)
