@@ -51,3 +51,17 @@ main, section {
   border-radius: 12px;
   border: 1px solid #30363d;
 }
+
+/*Style projet*/
+.project-card {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 25px;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #fff;
+}
