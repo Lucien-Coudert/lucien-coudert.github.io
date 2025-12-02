@@ -3,6 +3,7 @@ title: "Accueil"
 ---
 <link rel="stylesheet" href="/assets/dark.css">
 
+<!-- section header linkedin ou mail ?-->
 <div class="hero">
     <h1>Lucien Coudert</h1>
     <h3>Étudiant Ingénieur</h3>
@@ -12,7 +13,7 @@ title: "Accueil"
     <a href="https://www.linkedin.com/in/lucien-coudert" class="btn" target="_blank">LinkedIn</a>
 </div>
 
-
+<!--section à propose => courte présentation -->
 <section>
   <h2>À propos</h2>
   <p>
@@ -28,6 +29,7 @@ title: "Accueil"
   </p>
 </section>
 
+<!-- Compétence par catégories -->
 <section>
   <h2>Compétences</h2>
 
@@ -56,11 +58,10 @@ title: "Accueil"
   </ul>
 </section>
 
+<!-- Projet académique et perso, lien vers les repos git -->
 <section>
   <h2>Projets</h2>
-
-  <!-- Projet 1 -->
-  <div class="project-card">
+  <div class="special-card">
     <h3>📊 Analyse de données sur la qualité de l’air</h3>
     <p><strong>Contexte :</strong> Projet universitaire visant à analyser l’évolution de la qualité de l’air en France et à identifier les facteurs influençant les pics de pollution.</p>
     <p><strong>Technologies :</strong> Python, Pandas, NumPy, Matplotlib, Scikit-learn</p>
@@ -74,3 +75,34 @@ title: "Accueil"
     </p>
   </div>
 </section>
+
+<!-- Expérience professionelle -->
+<section>
+  <h2>Expérience professionnelle</h2>
+  <div class="special-card">
+    <h3> Stagiaire Valeo </h3>
+    <p><strong>Période: </strong> Juin 2024</p>
+    <p><strong>Poste: </strong> Stagiaire</p>
+    <p><strong>Entreprise: </strong> Valeo</p>
+    <p><strong>Réalisation: </strong></p>
+    <ul>
+      <li> Moyen de test</li>
+    </ul>
+  </div>
+</section>
+
+<!-- Diplômes et formation si il y en a  -->
+<section>
+  <h2> Diplômes</h2>
+  <div class="special-card">
+    <ul>
+      <li> Bac </li>
+    </ul>
+  </div>
+</section>
+
+
+
+
+
+

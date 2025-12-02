@@ -52,8 +52,8 @@ main, section {
   border: 1px solid #30363d;
 }
 
-/*Style projet*/
-.project-card {
+
+.special-card {
   background-color: #161b22;
   border: 1px solid #30363d;
   padding: 20px;
@@ -61,7 +61,9 @@ main, section {
   margin-bottom: 25px;
 }
 
-.project-card h3 {
+.special-card h3 {
   margin-top: 0;
   color: #fff;
 }
+
+
